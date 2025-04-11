@@ -89,7 +89,7 @@ El proyecto utiliza JWT y cookies para la autenticación:
 
 - /register → Registro de usuarios con validación de correo.
 - /login → Inicio de sesión.
-- /stock → Ver productos disponibles.
+- /productos → Ver productos disponibles.
 - /registrarse → Registro del usuario n.
 - - /facturacion → Facturacion salidas.
 
