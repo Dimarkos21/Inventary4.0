@@ -11,7 +11,7 @@ Es un sistema para llevar inventario para pequeñas  o medianas empresas en el a
 - **Base de datos:** MongoDB
 - **Autenticación:** JSON Web Token (JWT), bcrypt, Cookie-Parser
 - **Correo electrónico:** Nodemailer
-- *Pdf:** JSPDF
+- **Pdf:** JSPDF
 ---
 
 ## **Funcionalidades principales**
@@ -33,7 +33,7 @@ Registro y login con verificación por correo electrónico.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/.git
+git clone  https://github.com/Dimarkos21/Inventary4.0
 cd Inventary4.0
 ```
 
